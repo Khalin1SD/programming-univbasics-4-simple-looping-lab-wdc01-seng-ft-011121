@@ -33,7 +33,7 @@ def return_string_array(array)
     count += 1 
   end
 end
-return_string_array
+return_string_array("0")
     
   
   
