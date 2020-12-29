@@ -34,7 +34,7 @@ def return_string_array(array)
   end
   new_array
 end
-return_string_array(3)
+return_string_array(["hello", "good", "bye"])
     
   
   
