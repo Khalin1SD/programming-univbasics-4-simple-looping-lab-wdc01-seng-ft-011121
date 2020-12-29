@@ -27,7 +27,7 @@ output_array(["hello", "no", "yes", "maybe"])
 
 def return_string_array(array)
   count = 0 
-  new_array = ["1", "2", "3", "4", "5"]
+  new_array = Array.new(5)
   while count < array.length do
    new_array.push(array[count].to_s)
     count += 1 
