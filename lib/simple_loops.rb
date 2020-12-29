@@ -27,11 +27,7 @@ output_array(["hello", "no", "yes", "maybe"])
 
 def return_string_array(array)
   count = 0 
-  while count < array.length do 
-    
-  end
-end
-return_string_array("0")
+  while count < array.length do
     
   
   
